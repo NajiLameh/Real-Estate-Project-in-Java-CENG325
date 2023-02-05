@@ -1,0 +1,4 @@
+prop1	city	medium	5	70000
+prop2	city	large	10	150000
+prop4	village	large	12	120000
+prop5	city	small	2	20000
